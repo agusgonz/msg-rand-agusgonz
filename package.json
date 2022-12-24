@@ -1,0 +1,24 @@
+{
+  "name": "msg-rand-agusgonz",
+  "version": "1.0.0",
+  "description": "Get random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agusgonz/msg-rand-agusgonz.git"
+  },
+  "keywords": [],
+  "author": "Agustin Gonzalez <agusendeiza@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agusgonz/msg-rand-agusgonz/issues"
+  },
+  "homepage": "https://github.com/agusgonz/msg-rand-agusgonz#readme",
+  "bin": {
+    "msg-rand-agusgonz": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
